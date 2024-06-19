@@ -4,7 +4,7 @@ Welcome to the Weather App, a dynamic application that provides real-time weathe
 
 ![Weather App](https://github.com/hardikk258/Weather-App/blob/main/public/Weather%20App.png)
 
-You can see a live demo of the game here:- https://weatheritis.netlify.app/
+You can see a live demo here:- https://weatheritis.netlify.app/
 
 ## Features
 
